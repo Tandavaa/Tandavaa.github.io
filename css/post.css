@@ -12,6 +12,13 @@ article.post-view__article .article__content h6,
 article.post-view__article .article__content p {
   margin: 1em 0;
 }
+article.post-view__article .article__content p,
+article.post-view__article .article__content li,
+article.post-view__article .article__content ol,
+article.post-view__article .article__content table,
+article.post-view__article .article__content code {
+  line-high: 200%;
+}
 article.post-view__article .article__content small {
   font-size: 1rem;
 }
