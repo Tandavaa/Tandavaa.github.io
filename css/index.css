@@ -149,6 +149,7 @@ article.post-view__article .article__content img {
   width: auto;
   max-width: 100%;
   margin: 2rem 0;
+  text-align: center;
 }
 article.post-view__article .article__content .highlight table {
   width: 100%;
