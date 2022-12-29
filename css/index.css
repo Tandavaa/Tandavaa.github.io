@@ -8,10 +8,15 @@
 html {
   font-size: 62.5%;
 }
+@font-face {
+  font-style:normal;
+  font-family:'PMINGLIU';
+  src:url('./fonts/PMINGLIU.ttf') format('truetype');
+}
 body {
   width: 100%;
   height: 100%;
-  font-family: "宋体", "SimSun", "Noto Serif SC", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-family: "PMINGLIU", "Noto Serif SC", "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   background: #fff;
   color: #333;
   -webkit-font-smoothing: antialiased;
