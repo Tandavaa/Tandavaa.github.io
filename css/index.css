@@ -59,8 +59,8 @@ article.post-view__article .article__content li,
 article.post-view__article .article__content ol,
 article.post-view__article .article__content table,
 article.post-view__article .article__content code {
-  font-size: 1.4rem;
-  line-height: 2.8rem;
+  font-size: 1.6rem;
+  line-height: 3rem;
   text-align: justify;
 }
 article.post-view__article .article__content small {
