@@ -124,6 +124,7 @@ article.post-view__article .article__content table code.hljs {
 article.post-view__article .article__content code:not(.hljs) {
   font-size: inherit;
   line-height: inherit;
+  font-family: "PMINGLIU";
   color: #333;
   font-weight: normal;
   border: 1px solid #ebc65a;
