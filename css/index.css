@@ -122,10 +122,10 @@ article.post-view__article .article__content table code.hljs {
   margin: 0;
 }
 article.post-view__article .article__content code:not(.hljs) {
-  font-size: 1.4rem;
-  line-height: 2.2rem;
+  font-size: inherit;
+  line-height: inherit;
   color: #333;
-  font-weight: bold;
+  font-weight: normal;
   border: 1px solid #ebc65a;
   background: #fff;
   box-shadow: 0.2em 0.2em 0 0 #ebc65a;
