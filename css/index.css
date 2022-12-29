@@ -120,6 +120,7 @@ article.post-view__article .article__content code.hljs {
 }
 article.post-view__article .article__content table code.hljs {
   margin: 0;
+  font-family: "PMINGLIU";
 }
 article.post-view__article .article__content code:not(.hljs) {
   font-size: inherit;
