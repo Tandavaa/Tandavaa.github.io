@@ -126,14 +126,14 @@ article.post-view__article .article__content code:not(.hljs) {
   font-size: inherit;
   line-height: inherit;
   font-family: "PMINGLIU";
-  color: #333;
+  color: inherit;
   font-weight: normal;
   border: 1px solid #ebc65a;
   background: #fff;
   box-shadow: 0.2em 0.2em 0 0 #ebc65a;
   padding: 0.1em 0.4em;
   margin: 0 0.4em;
-  vertical-align: bottom;
+  vertical-align: center;
 }
 article.post-view__article .article__content ul,
 article.post-view__article .article__content ol {
