@@ -92,10 +92,9 @@ article.post-view__article .article__content big {
   color: rgb(214,168,65);
 }
 article.post-view__article .article__content em {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   line-height: 2.4rem;
   color: #126e82;
-  vertical-align: super;
   font-style: normal;
 }
 article.post-view__article .article__content sup {
