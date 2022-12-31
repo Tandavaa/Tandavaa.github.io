@@ -57,10 +57,15 @@ article.post-view__article .article__content h3 {
   line-height: 3.6rem;
   font-weight: normal;
   text-indent:18px;
+}
+article.post-view__article .article__content h4{
+  font-size: 1.4rem;
+  line-height: 2.8rem;
+  font-weight: normal;
+  text-indent:18px;
   background: #ff00bb;
   display:inline;
 }
-article.post-view__article .article__content h4,
 article.post-view__article .article__content h5 {
   font-size: 1.6rem;
   line-height: 3rem;
