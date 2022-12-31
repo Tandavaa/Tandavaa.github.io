@@ -110,7 +110,7 @@ article.post-view__article .article__content sup {
   color: #126e82;
   vertical-align: super;
 }
-article.post-view__article .article__content strong {
+article.post-view__article .article__content pre {
   font-size: 1.4rem;
   line-height: 2.4rem;
   color: #126e82;
