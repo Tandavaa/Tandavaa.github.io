@@ -57,6 +57,7 @@ article.post-view__article .article__content h3 {
   line-height: 3.6rem;
   font-weight: normal;
   text-indent:18px;
+  color: rgb(214,168,65);
 }
 article.post-view__article .article__content h4{
   font-size: 1.4rem;
