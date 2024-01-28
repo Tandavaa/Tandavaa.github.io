@@ -60,24 +60,27 @@ article.post-view__article .article__content h3 {
   color: rgb(214,168,65);
 }
 article.post-view__article .article__content h4{
-  font-size: 1.4rem;
-  line-height: 2.8rem;
-  font-weight: normal;
-  text-indent:18px;
-  background: #ff00bb;
-  display:inline;
-}
-article.post-view__article .article__content h5 {
   font-size: 1.6rem;
   line-height: 3rem;
   font-weight: normal;
+  color: #059859;
+  text-indent:18px;
+}
+article.post-view__article .article__content h5 {
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-weight: normal;
+  color: #f23d20;
   text-indent:18px;
 }
 article.post-view__article .article__content h6 {
-  font-size: 1.6rem;
-  line-height: 3rem;
+  font-size: 1.4rem;
+  line-height: 2.8rem;
   font-weight: normal;
-  text-indent:18px;
+  background: black;
+  color: white;
+  display: inline;
+  text-align: center;
 }
 article.post-view__article .article__content p,
 article.post-view__article .article__content li,
@@ -94,16 +97,29 @@ article.post-view__article .article__content small {
   line-height: 2.4rem;
   color: #999ea2;
 }
+article.post-view__article .article__content em {
+  font-size: 1.2rem;
+  line-height: 2.4rem;
+  color: #126e82;
+  font-style: normal;
+}
 article.post-view__article .article__content big {
   font-size: 1.4rem;
   line-height: 2.4rem;
   color: rgb(214,168,65);
 }
-article.post-view__article .article__content em {
+article.post-view__article .article__content strong {
   font-size: 1.4rem;
   line-height: 2.4rem;
   color: #126e82;
   font-style: normal;
+}
+article.post-view__article .article__content cite {
+  font-size: 1.2rem;
+  line-height: 2.4rem;
+  color: #999ea2;
+  font-style: normal;
+  text-align: right;
 }
 article.post-view__article .article__content sup {
   font-size: 1.2rem;
