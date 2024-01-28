@@ -112,7 +112,7 @@ article.post-view__article .article__content strong {
   font-size: 1.4rem;
   line-height: 2.4rem;
   color: #126e82;
-  font-style: normal;
+  font-weight: normal;
 }
 article.post-view__article .article__content cite {
   font-size: 1.2rem;
