@@ -126,6 +126,11 @@ article.post-view__article .article__content sup {
   color: #126e82;
   vertical-align: super;
 }
+article.post-view__article .article__content sub {
+  font-size: 1.2rem;
+  line-height: 2.4rem;
+  color: rgb(214,168,65);
+}
 article.post-view__article .article__content pre {
   font-size: 1.4rem;
   line-height: 2.4rem;
